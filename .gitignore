@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/unit-testing-using-mstest/DesignTimeBuild
+/.vs/unit-testing-using-mstest/v17
+/.vs/unit-testing-using-mstest
+/MySuperBestProject/bin/Debug/net5.0
+/MySuperBestProject/MySuperBestProject.Tests/obj/Debug/net5.0
+/MySuperBestProject/obj
+/MySuperBestProject.Tests/bin/Debug/net5.0
+/MySuperBestProject.Tests/obj
